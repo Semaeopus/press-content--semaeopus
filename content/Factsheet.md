@@ -13,12 +13,13 @@ February 20, 2014
 **Press / Business Contact:**  
 [press@semaeopus.com](http://web.archive.org/web/20240810162822/mailto:press@semaeopus.com)
 
-**Social:**  
+**Socials:** 
+X: https://x.com/semaeopus
 
 **Releases:**  
 [Off Grid](http://web.archive.org/web/20240810162822/http://semaeopus.com/press/sheet.php?p=off_grid)  
 Twelve a Dozen
-
+Knet (coming soon)
 
 **Address:**  
 142 New London Road  
