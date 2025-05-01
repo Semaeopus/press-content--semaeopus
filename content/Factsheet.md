@@ -13,12 +13,13 @@ Based in Essex, United Kingdom
 **Press / Business Contact:**  
 [press@semaeopus.com](http://web.archive.org/web/20240810162822/mailto:press@semaeopus.com)
 
-**Social:**  
+**Socials:** 
+X: https://x.com/semaeopus
 
 **Releases:**  
 [Off Grid](https://offgristhegame.com)  
 Twelve a Dozen
-
+Knet (coming soon)
 
 **Address:**  
 142 New London Road  

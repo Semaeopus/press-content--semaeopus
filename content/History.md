@@ -1,5 +1,5 @@
 ## History
 
-Semaeopus was founded in early 2014 by Rich Metson and Pontus Schönberg, and is now a 10+ strong team of crafty creators and devs who have come to games seeking a bit more than just fun and creativity - they want to make games that contribute to the maturing of the medium.
+Semaeopus was founded in early 2014 by Rich Metson and Pontus Schönberg, and has since grown into a team of 10+ passionate developers and creators. United by a desire to push the boundaries of the medium, the team is driven not just by fun and creativity, but by a commitment to making games that help the industry grow and evolve.
 
-Alongside design and development services Semaeopus is currently developing the stealth hacking game, Off Grid, which is to be the Studios first original IP.
+In addition to offering design and development services, Semaeopus is currently working on _Off Grid_—a stealth hacking game that marks the studio’s debut original IP.
