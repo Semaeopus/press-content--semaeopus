@@ -1,5 +1,9 @@
 ## Videos
 
-**Off Grid Trailer** [YouTube](http://www.youtube.com/watch?v=VEQFje7WAU4)
+### Off Grid Trailer
 
-**Twitch Stage at EGX 2017** [YouTube](http://www.youtube.com/watch?v=kJ0Nuo5mFSs)
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed?v=VEQFje7WAU4" />
+
+### Twitch Stage at EGX 2017
+
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed?v=kJ0Nuo5mFSs" />

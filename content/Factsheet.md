@@ -5,7 +5,7 @@
 Based in Essex, United Kingdom
 
 **Founding date:**  
-February 20, 2014
+`February 20, 2014`
 
 **Website:**  
 [semaeopus.com](http://web.archive.org/web/20240810162822/http://semaeopus.com/)
@@ -16,7 +16,7 @@ February 20, 2014
 **Social:**  
 
 **Releases:**  
-[Off Grid](http://web.archive.org/web/20240810162822/http://semaeopus.com/press/sheet.php?p=off_grid)  
+[Off Grid](https://offgristhegame.com)  
 Twelve a Dozen
 
 
@@ -25,5 +25,3 @@ Twelve a Dozen
 Chelmsford, CM2 0AW  
 United Kingdom  
 
-**Phone:**  
-NA
